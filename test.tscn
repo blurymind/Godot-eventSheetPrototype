@@ -1,0 +1,13 @@
+[gd_scene format=2]
+
+[node name="root" type="Node2D"]
+
+[node name="Node2D" type="Node2D" parent="." index="0"]
+
+[node name="AnimatedSprite" type="AnimatedSprite" parent="Node2D" index="0"]
+
+animation = "default"
+
+[node name="Sprite" type="Sprite" parent="Node2D" index="1"]
+
+
