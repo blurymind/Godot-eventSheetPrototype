@@ -1,3 +1,9 @@
+This is a prototype gui mockup of an event sheet concept I made for 
+https://github.com/godotengine/godot/issues/17795
+Please note that in no way is this usable at the moment-it just a quickly bashed together gui mockup for another thing that would hopefuly emerge from it - rewritten in c++.
+
+So here it goes:
+
 We currently have a visual scripting system similar to blueprints in Unreal - connecting nodes.
 The proposal here is for a second visual scripting system, that is similar to event sheets in Construct 2 (proprietary), Multimedia fusion (proprietary) and Gdevelop (open source)
 ![11](https://user-images.githubusercontent.com/6495061/37964468-81886d54-31b9-11e8-9ba5-555123ad1fc7.jpg)
